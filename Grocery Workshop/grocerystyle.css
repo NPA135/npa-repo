@@ -1,0 +1,84 @@
+body {
+    background-color: aliceblue;
+    margin: 20px;
+    padding: 10px;
+}
+
+h1  {
+    border: 2px solid rgb(194, 112, 112);
+    margin: 15px;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(212, 82, 82);
+    background-color: rgb(221, 135, 135);
+}
+
+.ptitle {
+    background-color: rgba(102, 182, 132, 0.404);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(98, 133, 103);
+    margin: 5px;
+}
+
+.ftitle {
+    background-color: rgba(180, 201, 209, 0.404);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(83, 109, 131);
+    margin: 5px;
+}
+
+.lstylea {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(98, 133, 103);
+    margin: 5px;
+}
+
+.lstyleb {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(85, 108, 128);
+    margin: 5px;
+}
+
+.titlesecA {
+    background-color: rgba(102, 182, 132, 0.404);
+    border: 2px solid rgb(125, 168, 138);
+}
+
+.titlesecB {
+    background-color: rgba(180, 201, 209, 0.404);
+    border: 2px solid rgb(193, 212, 218);
+}
+
+.infoseca {
+    background-color: rgba(102, 182, 132, 0.404);
+    border: 2px solid rgb(125, 168, 138);
+    margin: 15px 15px 15px 15px;
+    padding: 15px;
+}
+
+.infosecb {
+    background-color: rgba(180, 201, 209, 0.404);
+    border: 2px solid rgb(193, 212, 218);
+    margin: 15px 15px 15px 15px;
+    padding: 15px;
+}
+
+section {
+    margin-top: 15px;
+    padding: 5px;
+}
+
+.divdef {
+    margin: 15px 0;
+}
+
+.photoA {
+    padding: 5px;
+    width: 500px;
+}
+
+.photoB {
+    padding: 5px;
+    width: 400px;
+}
